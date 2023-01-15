@@ -6,7 +6,7 @@ Script is for updating server and starting and there is discord webhook to annou
 Drop `startark.sh` to your root folder.
 
 ### Give permission to execute file.
-You will need to make the file executable. Let's assume that you have downloaded your file as file.sh, you can then run in your terminal:
+You will need to make the file executable. Let's assume that you have downloaded your file as startark.sh, you can then run in your terminal:
 ```ruby
 chmod +x ./startark.sh
 ```
