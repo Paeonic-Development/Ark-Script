@@ -24,13 +24,13 @@ gr="\033[1;33m"
 rs="\033[0m"
 screen="ark" # Change this if needed
 
-# Discord
-webhook_url="https://discordapp.com/api/webhooks/1063827113934856282/9uslkjZ_GKWWOTsW06So1o9cSNKpcXGw6RRr4OBafsxF0FSY5LSoWgLAwEIyBL2IZJ0c" # Change this if needed
+# Webhook
+webhook_url="WEBHOOK_URL" # Change this
 thumbnail="https://media.discordapp.net/attachments/1057420375388078190/1057420487229182023/ML_Dev_static.png?width=205&height=205" # Change this if needed
 avatar_url="https://media.discordapp.net/attachments/1022442019479625770/1048557566780788808/X_CaVe_X_standard.gif?width=205&height=205" # Change this if needed
 username="M&L Dev" # Change this
-roleId="1060135644078280734" # Change this
-channelId="1061971883815354408" # Change this
+roleId="1234567890123456789" # Change this
+channelId="1234567890123456789" # Change this
 colorRe="15158332"
 colorGr="3066993"
 
