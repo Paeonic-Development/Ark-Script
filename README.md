@@ -64,3 +64,4 @@ chmod is a command for changing file's permissions, +x sets execute permissions 
 - [ ] Add way to enable or disable webhook
 - [ ] Add command that creates server from scratch.
 - [ ] Fix Ark steam version check.
+- [ ] Add way to enable or disable server password
