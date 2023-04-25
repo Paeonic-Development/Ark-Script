@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://github.com/Praction-Development/.github/blob/main/images/Praction_Banner.png" alt="Praction Development Banner">
+  <img src="https://github.com/Paeonic-Development/.github/blob/main/images/Paeonic.png" alt="PΛΞ0NIC Development Banner">
 </div>
-
 
 <div align="center">
   <h1>What is Ark Survival Evolved linux bash script?</h1>
